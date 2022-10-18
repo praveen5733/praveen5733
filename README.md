@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Praveen's Github stats](https://github-readme-stats.vercel.app/api?count_private=true&username=Praveen5733&show_icons=true)](https://github.com/praveen5733)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=praveen5733&langs_count=10&layout=compact&hide=html,css,ruby,scss)](https://github.com/praveen5733)
+
 <!--
 **praveen5733/praveen5733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
